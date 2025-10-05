@@ -1,4 +1,5 @@
 from fractions import Fraction
+#Import module
 
 while True :
     data = input("Masukan Hitungan :")
@@ -11,6 +12,7 @@ while True :
     print("\n")
 #input in terminal(vscode): "10+10" or "10*10" or "10-10" or "10/10"
 #output: "20" , "100" , "0" , "1"
+
 
 
 
